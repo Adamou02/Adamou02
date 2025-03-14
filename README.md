@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 I’m currently working and maintaining **Infrastructure modules provisioned by terraform**
+- 🔭 I’m currently working and maintaining **Infrastructure modules provisioned by terraform**, **configured by Ansible**, on which **containerized solutions run**, **orchestrated with Kubernetes (sync as code with ArgoCD)**
 
 - 💬 Ask me about **Cloud, DevOps , Automation**
 
