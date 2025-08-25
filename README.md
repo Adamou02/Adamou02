@@ -1,7 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Adam Bouhrara</h1>
 <h3 align="center">Devops/Cloud Engineer | GCP Certified | Azure Certified </h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adamou02" alt="adamou02" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://trophygh.kolioaris.xyz/?username=adamou02" alt="adamou02" /></a> </p>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
