@@ -42,5 +42,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adamou02&show_icons=true&locale=en&theme=dark" alt="Adam Bouhrara" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats-inky-nu.vercel.app?user=Adamou02&theme=dark&dates=5FDCEB" alt="Adam Bouhrara" /></p>
+<p><img align="center" src="https://github-readme-streak-stats-inky-nu.vercel.app?user=Adamou02&theme=dark&date_format=j%20M%5B%20Y%5D&dates=5FDCEB" alt="Adam Bouhrara" /></p>
 
